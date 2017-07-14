@@ -7,5 +7,5 @@ Front-end:
 React
 
 Back-end:
-Node
+Node,
 MySQL
